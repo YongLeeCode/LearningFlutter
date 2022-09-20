@@ -9,7 +9,7 @@ I think that just writing code is not enough.
 Thus, I try to make a blog.
 This is a Korean because it would be easy to find what I need in my future.
 
-- [Blog](everyeveryone.tistory.com)
+- [Blog](https://everyeveryone.tistory.com/manage/posts/)
 
 
 For help getting started with Flutter development, view the
