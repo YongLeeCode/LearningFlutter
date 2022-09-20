@@ -1,15 +1,16 @@
 # widgetlist
 
-A new Flutter project.
+I am trying to learn Flutter.
+This is a really great one.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I think that just writing code is not enough.
+Thus, I try to make a blog.
+This is a Korean because it would be easy to find what I need in my future.
 
-A few resources to get you started if this is your first Flutter project:
+- [Blog](everyeveryone.tistory.com)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
